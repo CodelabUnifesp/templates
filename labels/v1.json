@@ -1,0 +1,11 @@
+[
+  {
+    "name": "priority: critical",
+    "color": "d73a4a",
+    "description": "Uma tarefa que precisa ser completada o mais rápido possível para a continuidade do projeto.",
+    "aliases": [
+      "critical",
+      "priority: critical"
+    ]
+  }
+]
