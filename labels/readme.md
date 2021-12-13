@@ -1,0 +1,1 @@
+github-label-sync -a <github_token> -l 'https://git.io/fAe5i' <github_name>/<github_repo>
